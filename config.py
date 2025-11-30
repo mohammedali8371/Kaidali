@@ -1,0 +1,5 @@
+# config.py
+TOKEN = "8273832358:AAFpPUHBYIBBoKTLVzTxu6onU7yDRa4TmwI"
+CHANNEL_URL = "https://t.me/lmh716"
+ACCOUNT_USERNAME = "@hhhbjvv"
+DEVELOPER_USERNAME = "المطور"
